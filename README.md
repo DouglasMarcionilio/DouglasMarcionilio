@@ -1,4 +1,4 @@
-- 👋 Opaaa! Bem vindo(a) eu sou o Douglas
+- 👋 Bem vindo(a) eu sou o Douglas
 - 🧬 Comecei a programar com 15 anos quando ganhei um livro sobre python.
 - 🧠 Meus conhecimentos são: Python, Java, C#, HTML, CSS, SQL, Flutter e Dart. 
 - 🌱 Atualmente estou estudando React Native
